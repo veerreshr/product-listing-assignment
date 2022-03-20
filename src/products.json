@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "title":"Unstitched Cotton Polyester Blend Shirt Fabric Printed  (Unstitched)",
+        "image":"https://rukminim1.flixcart.com/image/580/696/kw9krrk0/fabric/n/2/b/no-2-35-m-unstitched-na-lion-trijal-fab-original-imag8zf4xs8gc3zp.jpeg?q=50",
+        "price":160,
+        "sizes":["M","L","XL"],
+        "brand":"Trijal Fab",
+        "ideal_for":["Men"]
+    },
+    {
+        "id":2,
+        "title":"Solid Men Mandarin Collar Brown, Black T-Shirt",
+        "image":"https://rukminim1.flixcart.com/image/880/1056/kyrlifk0/t-shirt/2/a/v/xxl-tbrblhenful-d37-tripr-original-imagax9ucbwhf7wn.jpeg?q=50",
+        "price":249,
+        "sizes":["S","M","L","XL","XXL"],
+        "brand":"TRIPR",
+        "ideal_for":["Men"]
+    },
+    {
+        "id":3,
+        "title":"Printed Men Round Neck Grey T-Shirt",
+        "image":"https://rukminim1.flixcart.com/image/880/1056/kzrbiq80/t-shirt/r/w/f/l-bwmrn-z31-blive-original-imagbzzgwhg2n6ng.jpeg?q=50",
+        "price":129,
+        "sizes":["L","XL"],
+        "brand":"BLIVE",
+        "ideal_for":["Men"]
+    },
+    {
+        "id":4,
+        "title":"Women Fit and Flare Multicolor Dress",
+        "image":"https://rukminim1.flixcart.com/image/880/1056/k5bcscw0/dress/b/d/q/s-ss20ab030drb29-and-original-imafny82zkzute4g.jpeg?q=50",
+        "price":425,
+        "sizes":["XS","S","M","XL"],
+        "brand":"AND",
+        "ideal_for":["Women"]
+    },
+    {
+        "id":5,
+        "title":"Women Fit and Flare White, Blue Dress",
+        "image":"https://rukminim1.flixcart.com/image/880/1056/k5bcscw0/dress/b/u/h/s-ss20at034drb33-and-original-imafny82ccagy4rs.jpeg?q=50",
+        "price":1255,
+        "sizes":["M","L","XL"],
+        "brand":"AND",
+        "ideal_for":["Women"]
+    },
+    {
+        "id":6,
+        "title":"Slim Fit Women Black Cotton Viscose Blend Trousers",
+        "image":"https://rukminim1.flixcart.com/image/880/1056/kflftzk0-0/trouser/p/6/3/30-coay03tr53lr-and-original-imafwyf6vwtkv2fz.jpeg?q=50",
+        "price":827,
+        "sizes":["XS","S","M","L","XL","XXL"],
+        "brand":"AND",
+        "ideal_for":["Women"]
+    }
+]
