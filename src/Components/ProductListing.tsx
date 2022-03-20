@@ -15,6 +15,9 @@ const ProductListing: React.FC<ProductListingType> = ({ products }) => {
   return (
     <Box sx={{ m: 2 }}>
       <Grid container spacing={2}>
+        {productList?.length === 0 && (
+          <Box sx={{ m: 2 }}>No Products Available</Box>
+        )}
         {productList?.map((product: ProductType) => (
           <Grid item xs={12} sm={6} md={3} key={product.id}>
             {" "}
